@@ -16,8 +16,8 @@ a Chinese translation for &lt;&lt;The Swift Programming Language>>
 -------
 # Welcome to Swift #
 
-    About Swift
-    A Swift Tour
+    <a href="about_swift.md">About Swift</a>
+    <a href="a_swift_tour.md">A Swift Tour</a>
 
 # Language Guide #
 
@@ -31,7 +31,7 @@ a Chinese translation for &lt;&lt;The Swift Programming Language>>
     Enumerations
     Classes and Structures
     Properties
-    Methods  (沛沛）
+    <a href="methods.md">Methods (沛沛）</a>
     Subscripts
     Inheritance
     Initialization
@@ -43,7 +43,7 @@ a Chinese translation for &lt;&lt;The Swift Programming Language>>
     Extensions
     Protocols
     Generics
-    Advanced Operators  (思维）
+    <a href="advanced_operators.md">Advanced Operators  (思维）</a>
 
 # Language Reference #
 
