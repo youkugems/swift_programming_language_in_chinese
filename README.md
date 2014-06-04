@@ -19,46 +19,46 @@ Swift is a fantastic way to write iOS and OS X apps, and will continue to evolve
 ##章节(Charpters)
 <spoiler title="menu">
   <ul>
-    <li><a="A_Swift_Tour.md">A Swift Tour</a></li>
+    <li><a href="A_Swift_Tour.md">A Swift Tour</a></li>
     <li>Language Guide
       <ul>
-        <li><a="#">The Basics</a></li>
-        <li><a="#">Basic Operators</a></li>
-        <li><a="#">Strings and Characters</a></li>
-        <li><a="#">Collection Types</a></li>
-        <li><a="#">Control Flow</a></li>
-        <li><a="#">Functions</a></li>
-        <li><a="#">Closures</a></li>
-        <li><a="#">Enumerations</a></li>
-        <li><a="#">Classes and Structures</a></li>
-        <li><a="#">Properties</a></li>
-        <li><a="#">Methods</a></li>
-        <li><a="#">Subscripts</a></li>
-        <li><a="#">Inheritance</a></li>
-        <li><a="#">Initialization</a></li>
-        <li><a="#">Deinitialization</a></li>
-        <li><a="#">Automatic Reference Counting</a></li>
-        <li><a="#">Optional Chaining</a></li>
-        <li><a="#">Type Casting</a></li>
-        <li><a="#">Nested Types</a></li>
-        <li><a="#">Extensions</a></li>
-        <li><a="#">Protocols</a></li>
-        <li><a="#">Generics</a></li>
-        <li><a="#">Advanced Operators</a></li>
+        <li><a href="#">The Basics</a></li>
+        <li><a href="#">Basic Operators</a></li>
+        <li><a href="#">Strings and Characters</a></li>
+        <li><a href="#">Collection Types</a></li>
+        <li><a href="#">Control Flow</a></li>
+        <li><a href="#">Functions</a></li>
+        <li><a href="#">Closures</a></li>
+        <li><a href="#">Enumerations</a></li>
+        <li><a href="#">Classes and Structures</a></li>
+        <li><a href="#">Properties</a></li>
+        <li><a href="#">Methods</a></li>
+        <li><a href="#">Subscripts</a></li>
+        <li><a href="#">Inheritance</a></li>
+        <li><a href="#">Initialization</a></li>
+        <li><a href="#">Deinitialization</a></li>
+        <li><a href="#">Automatic Reference Counting</a></li>
+        <li><a href="#">Optional Chaining</a></li>
+        <li><a href="#">Type Casting</a></li>
+        <li><a href="#">Nested Types</a></li>
+        <li><a href="#">Extensions</a></li>
+        <li><a href="#">Protocols</a></li>
+        <li><a href="#">Generics</a></li>
+        <li><a href="#">Advanced Operators</a></li>
       </ul>
     </li>
     <li>Language Reference
       <ul>
-        <li><a="#">About the Language Reference</a></li>
-        <li><a="#">Lexical Structure</a></li>
-        <li><a="#">Types</a></li>
-        <li><a="#">Expressions</a></li>
-        <li><a="#">Statements</a></li>
-        <li><a="#">Declarations</a></li>
-        <li><a="#">Attributes</a></li>
-        <li><a="#">Patterns</a></li>
-        <li><a="#">Generic Parameters and Arguments</a></li>
-        <li><a="#">Summary of the Grammar</a></li>
+        <li><a href="#">About the Language Reference</a></li>
+        <li><a href="#">Lexical Structure</a></li>
+        <li><a href="#">Types</a></li>
+        <li><a href="#">Expressions</a></li>
+        <li><a href="#">Statements</a></li>
+        <li><a href="#">Declarations</a></li>
+        <li><a href="#">Attributes</a></li>
+        <li><a href="#">Patterns</a></li>
+        <li><a href="#">Generic Parameters and Arguments</a></li>
+        <li><a href="#">Summary of the Grammar</a></li>
       </ul>
     </li>
     <li>Copyright and Notices</li>
