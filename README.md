@@ -16,44 +16,44 @@ a Chinese translation for &lt;&lt;The Swift Programming Language>>
 -------
 # Welcome to Swift #
 
-    <a href="about_swift.md">About Swift</a>
-    <a href="a_swift_tour.md">A Swift Tour</a>
+-   [About Swift](about_swift.md "about swift")
+-   [A Swift Tour](a_swift_tour.md "a swift tour")
 
 # Language Guide #
 
-    The Basics (阿筝）
-    Basic Operators(阿筝）
-    Strings and Characters(阿筝）
-    Collection Types
-    Control Flow
-    Functions
-    Closures
-    Enumerations
-    Classes and Structures
-    Properties
-    <a href="methods.md">Methods (沛沛）</a>
-    Subscripts
-    Inheritance
-    Initialization
-    Deinitialization
-    Automatic Reference Counting
-    Optional Chaining
-    Type Casting
-    Nested Types
-    Extensions
-    Protocols
-    Generics
-    <a href="advanced_operators.md">Advanced Operators  (思维）</a>
+-   The Basics (阿筝）
+-   Basic Operators(阿筝）
+-   Strings and Characters(阿筝）
+-   Collection Types
+-   Control Flow
+-   Functions
+-   Closures
+-   Enumerations
+-   Classes and Structures
+-   Properties
+-   [Methods(沛沛)](methods.md "methods")
+-   Subscripts
+-   Inheritance
+-   Initialization
+-   Deinitialization
+-   Automatic Reference Counting
+-   Optional Chaining
+-   Type Casting
+-   Nested Types
+-   Extensions
+-   Protocols
+-   Generics
+-   [Advanced Operators(思维)](advanced_operators.md "advanced operators")
 
 # Language Reference #
 
-    About the Language Reference
-    Lexical Structure
-    Types
-    Expressions
-    Statements
-    Declarations
-    Attributes
-    Patterns
-    Generic Parameters and Arguments
-    Summary of the Grammar
+-   About the Language Reference
+-   Lexical Structure
+-   Types
+-   Expressions
+-   Statements
+-   Declarations
+-   Attributes
+-   Patterns
+-   Generic Parameters and Arguments
+-   Summary of the Grammar
