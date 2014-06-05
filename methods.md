@@ -46,10 +46,13 @@ Counter类定理了三个实例方法：
 - reset将计数器重置为0。
 
 >> The Counter class also declares a variable property, count, to keep track of the current counter value.
+
 Counter这个类还声明了一个可变属性count，用它来保持对当前计数器值的追踪。
 
 >> You call instance methods with the same dot syntax as properties:
+
 和调用属性一样，用点语法(dot syntax)调用实例方法:
+
 ```
 1| let counter = Counter()
 2| // the initial counter value is 0
@@ -60,7 +63,5 @@ Counter这个类还声明了一个可变属性count，用它来保持对当前�
 7| counter.reset()
 8| // the counter's value is now 0
 ```
-
-
 
 ### 方法的局部和外部参数名称(Local and External Parameter Names for Methods) ###
