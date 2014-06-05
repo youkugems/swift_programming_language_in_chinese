@@ -24,7 +24,7 @@ a Chinese translation for &lt;&lt;The Swift Programming Language>>
 -   The Basics (阿筝）
 -   Basic Operators(阿筝）
 -   Strings and Characters(阿筝）
--   Collection Types
+-   Collection Types(宏亮)
 -   Control Flow
 -   Functions
 -   Closures
